@@ -2,7 +2,7 @@
 Simple addon for blender 3d to render selected frames. It works with compositor.
 
 ### Blender version:
-Made nd tested on Blender 2.79 (windows64).
+Made and tested on Blender 2.79 (windows64). If you need the latest version for Blender 2.81, check the link: [render-selected-frames](https://github.com/agapas/render-selected-frames)
 
 ### More info
 
