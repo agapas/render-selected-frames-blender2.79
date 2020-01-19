@@ -8,7 +8,7 @@ Made and tested on Blender 2.79 (windows64). If you need the latest version for 
 
 Input frames can be set like in example: '2,5-8,13,14-16',<br/>so in this case following frames will be rendered: 2, 5, 6, 7, 8, 13, 14, 15, 16.
 
-<img src="https://raw.githubusercontent.com/agapas/render-selected-frames/master/images/1.png" width="310" height="330"/>
+<img src="https://raw.githubusercontent.com/agapas/render-selected-frames/master/images/ui.png" width="310" height="330"/>
 
 *A note:* please don't use spaces between input frames, just commas.
 
